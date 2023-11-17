@@ -2,7 +2,7 @@
 
 ---
 
-### :Man Technologist: Medium Skin Tone Emoji: Обо мне:
+### 👨🏽‍💻: Обо мне:
 
 Я начинающий веб разработчик.
 ---
