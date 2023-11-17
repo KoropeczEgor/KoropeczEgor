@@ -5,11 +5,11 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий веб разработчик.
-
+---
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
+---
 - :telescope: 
 
 - :seedling: 
@@ -17,6 +17,7 @@
 - :zap: 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-honey_of_life-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/honey_of_life) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koropeczegor@gmail.com)
+---
 
 ### 💻 Технологии:
 
