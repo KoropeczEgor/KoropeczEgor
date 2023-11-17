@@ -8,16 +8,16 @@
 ---
 
 
-- :telescope: 
+- :telescope: I try to look to the future and not forget the past
 
-- :seedling: 
+- :seedling: I'm always learning and growing
 
-- :zap: 
+- :zap:  I’m interested in WEB
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-honey_of_life-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/honey_of_life) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koropeczegor@gmail.com)
 ---
 
-### 💻 Технологии:
+### 💻 the technology I use:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
