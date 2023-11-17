@@ -1,10 +1,7 @@
-# Привет, меня зовут Егор!
+# Hi, my name is Egor!
 
 ---
 
-### 👨🏽‍💻: Обо мне:
-
-Я начинающий веб разработчик.
 ---
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
