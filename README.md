@@ -14,7 +14,7 @@
 
 - :zap:  I’m interested in WEB
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-honey_of_life-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/honey_of_life) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koropeczegor@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-honey_of_life-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/honey_of_life) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koropeczegor@gmail.com)
 ---
 
 ### 💻 the technology I use:
