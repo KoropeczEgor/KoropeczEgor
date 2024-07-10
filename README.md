@@ -1,4 +1,4 @@
-# Hi, my name is Egor!
+# Привет, меня зовут Егор!
 
 ---
 <p align="center">
@@ -8,13 +8,13 @@
 ---
 
 
-- :telescope: I try to look to the future and not forget the past
+- :telescope: Я стараюсь смотреть в будущее и не забывать о прошлом / I try to look to the future and not forget about the past
 
-- :seedling: I'm always learning and growing
+- :seedling: Я всегда учусь и расту / I'm always learning and growing
 
-- :zap:  I’m interested in WEB
+- :zap:  Меня интересует WEB / I’m interested in WEB
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-honey_of_life-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/honey_of_life) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koropeczegor@gmail.com)
+- :mailbox: Как связаться со мной / How to contact me: [![Telegram Badge](https://img.shields.io/badge/-honey_of_life-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/honey_of_life) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koropeczegor@gmail.com)
 ---
 
 ### 💻 the technology I use:
