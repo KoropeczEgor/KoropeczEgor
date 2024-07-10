@@ -17,7 +17,7 @@
 - :mailbox: Как связаться со мной / How to contact me: [![Telegram Badge](https://img.shields.io/badge/-honey_of_life-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/honey_of_life) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:koropeczegor@gmail.com)
 ---
 
-### 💻 the technology I use:
+### 💻 технология, которую я использую / the technology I use:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
